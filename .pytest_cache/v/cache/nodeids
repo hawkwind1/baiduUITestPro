@@ -1,0 +1,4 @@
+[
+  "test_case/test_search.py::test_search_page_search_success",
+  "test_case/test_search.py::test_search_page_navigate_news_page"
+]
